@@ -1,0 +1,2 @@
+# .github
+HAINIVA organization profile
